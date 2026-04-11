@@ -1,40 +1,29 @@
 ---
-title: "Hakkımda"
+title: "Hakkimda"
 sidebar: false 
 ---
 
-![](assets/images/vesikalik.jpeg){fig-align="center"}
+![](images/WhatsApp Image 2026-04-11 at 21.43.41.jpeg){fig-align="center" width="209"}
 
-# Eğitim
+# Egitim
 
--   B.S., ................................., ....................................University, Turkey, 20xx - 20xx.
--   M.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
--   Ph.D.., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Karabuk University, Turkey, 2013 - 2019.
+-   M.S., Engineering Management, Hacettepe University, Turkey, 2026 - ongoing.
 
-# İş Tecrübesi
+# Is Tecrubesi
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  BMC Automotive, Project Engineer, 2025-ongoing.
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+1.  Mesa Imalat, Intern, 2019
 
 # Projects
 
-1.  TUBİTAK 1001..........................
+1.  N/A
 
 # Publications
 
-1.  Dasdemir, E., Batta, R., Koksalan, M., Tezcaner Ozturk, D. (2022) “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-Dependent Prizes and Multiple Connections”, Computers & Operations Research, 145: 105882.
-
-# Competencies
-
-R, Quarto, Git, Python
-
-# Hobbies
+1.  N/A

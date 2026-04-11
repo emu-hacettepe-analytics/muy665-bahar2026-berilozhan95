@@ -3,4 +3,4 @@ title: "My Blog"
 sidebar: false 
 ---
 
-Bu sayfa yapım aşamasındadır.
+Bu sayfa yapim asamasindadir.

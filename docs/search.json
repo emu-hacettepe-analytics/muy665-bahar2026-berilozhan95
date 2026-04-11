@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Analitik sayfama hoş geldiniz",
+    "title": "Analitik sayfama hos geldiniz",
     "section": "",
-    "text": "MUY660-İş Analitiği dersi sayfama hoş geldiniz.\nBu analitik çalışmalarımızı paylaşıyorum.\n\n\n\n Back to top"
+    "text": "MUY665 Analitik dersi sayfama hos geldiniz.\nBu sayfada analitik Calismalarimi paylasiyorum.\n\n\n\n Back to top"
   },
   {
     "objectID": "teammembers/volkansonmez.html",
@@ -229,7 +229,7 @@
     "href": "portfolyo.html",
     "title": "Portfolyo",
     "section": "",
-    "text": "Bu sayfada, MUY665 İş Analitiği dersi 2025-2026 bahar dönemi boyunca yaptığım analitik çalışmalarımı sunmaktayım. Çalışmalarıma sol menüden ulaşabilirsiniz.\n\n\n\n Back to top",
+    "text": "Bu sayfada, MUY665 Is Analitigi dersi 2025-2026 bahar donemi boyunca yaptigim analitik Calismalarimi sunmaktayim. Calismalarima sol menuden ulasabilirsiniz.\n\n\n\n Back to top",
     "crumbs": [
       "Portfolyo"
     ]
@@ -249,7 +249,7 @@
     "href": "proje.html",
     "title": "Proje X (proje adını yazınız)",
     "section": "",
-    "text": "Proje sayfamıza hoş geldiniz.\nProjemizle ilgili güncellemelerden haberdar olmak için bu alanı takip edin.\n(Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)"
+    "text": "Projemizle ilgili güncellemelerden haberdar olmak için bu xxxxx bağlantısındaki proje sayfamızı takip edin.\n(Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)"
   },
   {
     "objectID": "proje.html#data-source",
@@ -547,22 +547,22 @@
   {
     "objectID": "about.html#employements",
     "href": "about.html#employements",
-    "title": "Hakkımda",
+    "title": "Hakkimda",
     "section": "Employements",
-    "text": "Employements\n\nFirm xxx, position xx, year xxx\nFirm yyy, position yyy, year yyy"
+    "text": "Employements\n\nBMC Automotive, Project Engineer, 2025-ongoing."
   },
   {
     "objectID": "about.html#internships",
     "href": "about.html#internships",
-    "title": "Hakkımda",
+    "title": "Hakkimda",
     "section": "Internships",
-    "text": "Internships\n\nFirm aaa, position xx, year xxx\nFirm bbb, position yyy, year yyy"
+    "text": "Internships\n\nMesa Imalat, Intern, 2019"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "Bu sayfa yapım aşamasındadır.\n\n\n\n Back to top"
+    "text": "Bu sayfa yapim asamasindadir.\n\n\n\n Back to top"
   }
 ]

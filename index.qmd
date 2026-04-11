@@ -1,8 +1,8 @@
 ---
-title: "Analitik sayfama hoE geldiniz"
+title: "Analitik sayfama hos geldiniz"
 sidebar: false 
 ---
 
-MUY660-D0E AnalitiDi dersi sayfama hoE geldiniz.
+MUY665 Analitik dersi sayfama hos geldiniz.
 
-Bu analitik C'alD1EmalarD1mD1zD1 paylaED1yorum.
+Bu sayfada analitik Calismalarimi paylasiyorum.

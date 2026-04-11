@@ -3,19 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "[xxxx]'in Analitik Labı"
+  title: "[Beril Ozhan]'in Analitik Labi"
   navbar:
     search: true
     left:
       - text: Anasayfa
         href: index.qmd
-      - text: Hakkımda
+      - text: HakkD1mda
         href: about.qmd
-      - text: Gönderilerim
+      - text: Gonderilerim
         href: posts.qmd
-      - text: "MUY665 Ders Çıktıları"
+      - text: "MUY665 Ders Ciktilari"
         menu:
-          - text: Ödevler
+          - text: odevler
             href: portfolyo.qmd
           - text: Proje
             href: project.qmd
@@ -29,7 +29,7 @@ website:
         href: https://linkedin.com
 
   sidebar:
-    - title: "Çalışmalar"
+    - title: "Calismalar"
       style: "docked"
       search: true
       contents:
